@@ -31,3 +31,5 @@ Datele sunt salvate intr-o baza de date relationala folosind JDBC. Serviciile im
 Un serviciu dedicat scrie fiecare actiune executata intr-un fisier `audit_log.csv`. Formatul fiecarei inregistrari este: `nume_actiune,timestamp`.
 
 ---
+Link : https://github.com/Vladutzky/Laborator-Java/blob/main/Info/project.md
+
